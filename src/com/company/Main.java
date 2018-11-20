@@ -6,14 +6,14 @@ import java.util.function.Supplier;
 public class Main {
     public static  void  main(String[] args)
     {
-        /*
+
         int [] sumNumber = sumTwoNumbers((a, b) -> a + b);
 
         for (int i : sumNumber){
             //System.out.println(i);
         }
         System.out.println("-------");
-        */
+
         bubbleSort();
 
     }
