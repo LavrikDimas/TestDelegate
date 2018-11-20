@@ -10,7 +10,7 @@ public class Main {
         int [] sumNumber = sumTwoNumbers((a, b) -> a + b);
 
         for (int i : sumNumber){
-            //System.out.println(i);
+            System.out.println(i);
         }
         System.out.println("-------");
 
